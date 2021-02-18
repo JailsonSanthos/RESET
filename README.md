@@ -1,4 +1,4 @@
-# RESET
+# Função RESET
 
 Função para dar reset no Arduino. 
 Postagem original em: https://www.instructables.com/two-ways-to-reset-arduino-in-software/ 
